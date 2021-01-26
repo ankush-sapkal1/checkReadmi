@@ -64,3 +64,5 @@ function generateInvoiceNumber(){
 	invoiceNumberBox.innerHTML="Invoice #"+invoice;
 }
 ```
+- [Click here to help for readme file element](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
