@@ -1,6 +1,6 @@
 # checkReadmi
 this repository for check how to upload asset in  readmi file
-### [Document History]
+### Document History
 | Version  | Date      | Summary of Changes |
 | ---------| ----------| -------------------|
 |    1.0   | 19-08-2020| Inital Draft       |
@@ -37,4 +37,4 @@ by Zapp and is ready to implement.
 ### Flow Diagram
 ![alt text](https://raw.githubusercontent.com/ankushsapkal/checkReadmi/main/.github/images/flow.jpg?raw=true)
 
-# Figure 1 : Flow diagram of user journey
+#### <u>Figure 1 : Flow diagram of user journey</u>
