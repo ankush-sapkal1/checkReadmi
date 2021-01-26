@@ -35,6 +35,14 @@ by Zapp and is ready to implement.
 
 
 ### Flow Diagram
-![alt text](https://raw.githubusercontent.com/ankushsapkal/checkReadmi/main/.github/images/flow.jpg?raw=true)
+![alt text](https://user-images.githubusercontent.com/16609152/105854387-dab37480-600c-11eb-93d5-55a85841267e.jpg)
 
-#### <u>Figure 1 : Flow diagram of user journey</u>
+#### Figure 1 : Flow diagram of user journey
+
+
+## User journey
+![alt text](https://user-images.githubusercontent.com/16609152/105854473-f3bc2580-600c-11eb-9fde-77192e56a80b.jpg)
+![alt text](https://user-images.githubusercontent.com/16609152/105854473-f3bc2580-600c-11eb-9fde-77192e56a80b.jpg)
+![alt text](https://user-images.githubusercontent.com/16609152/105854473-f3bc2580-600c-11eb-9fde-77192e56a80b.jpg)
+
+
