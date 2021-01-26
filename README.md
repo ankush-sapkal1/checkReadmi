@@ -41,7 +41,7 @@ by Zapp and is ready to implement.
 
 
 ## User journey
---------------------------------------------------------------------------------------------------------------
+
 
 
 <p float="left">
@@ -50,6 +50,9 @@ by Zapp and is ready to implement.
 <img src="https://user-images.githubusercontent.com/16609152/105854473-f3bc2580-600c-11eb-9fde-77192e56a80b.jpg" alt="Encryption of sensitive data" width="200px" />
 <img src="https://user-images.githubusercontent.com/16609152/105854473-f3bc2580-600c-11eb-9fde-77192e56a80b.jpg" alt="Encryption of sensitive data" width="200px" />
 </p>
+
+#### hr line
+--------------------------------------------------------------------------------------------------------------
 
 
 ## Sample Code
