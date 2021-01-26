@@ -37,6 +37,7 @@ by Zapp and is ready to implement.
 ![alt text](https://user-images.githubusercontent.com/16609152/105854387-dab37480-600c-11eb-93d5-55a85841267e.jpg)
 
 #### Figure 1 : Flow diagram of user journey
+--------------------------------------------------------------------------------------------------------------
 
 
 ## User journey
